@@ -1,6 +1,5 @@
-info:
-  profile: dev
-
-name: Saul
-words: 'God bless me'
-  
+info: 
+    profile: prod
+    
+name: Paul
+words: 'God bless you'
